@@ -9,6 +9,9 @@ A good website for practicing your Prolog skills on is SWISH (https://swish.swi-
 
 I didn't include everything in my tutorial. I left out a lot of the vocabulary because I wanted the tutorial to be concise. If you are really interested in Prolog and want to learn more Learn Prolog Now! is a fantastic site for that. Prolog code can be much more complicated than what I've included, but it would just be a recombination of the things i wrote in the tutorial.pl file or the extraExamples.pl file. I encourage you to practice by finishing out the knowledge base I started, or make a new one with whatever facts and rules you want. Prolog is a great example of logic based artificial intelligence and can be great for deducing answers from large knowledge bases.
 
+Prolog might not be that well-known but it is still important today especially in machine learning. Prolog is even used in IBM Watson, one of the best artificial inteligence computers in the world, known for being able to answer questions posed in natural language (IBM Developer).
+
 Geeks for Geeks By: Prasad_Kshirsagar, Improved By: ManasChhabra2 - https://www.geeksforgeeks.org/prolog-an-introduction/
 Learn Prolog Now! By: Patrick Blackburn, Johan Bos, and Kristina Striegnitz - http://www.learnprolognow.org/lpnpage.php?pagetype=html&pageid=lpn-htmlli1
 Stack Overflow  By: snr - Reinstate Monica - https://stackoverflow.com/questions/50668708/what-does-the-symbol-mean-in-prolog
+IBM Developer By: M. Tim Jones - https://developer.ibm.com/technologies/artificial-intelligence/articles/cc-languages-artificial-intelligence/
