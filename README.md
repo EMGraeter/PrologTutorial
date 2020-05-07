@@ -5,7 +5,7 @@ Prolog is a fun and easy programming language to learn. It serves a very importa
 
 The most basic thing to know about Prolog is that the main code is the knowledge base and it can be used with queries. the knowledge base is made of two parts, facts and rules. While the knowledge base can just be made of facts, I find it isn't as fun to query without rules. Just like most code the best and, some would argue, only way to learn Prolog is by example, so the actual tutorial is in the tutorial.pl file in the comments.
 
-A good website for practicing your Prolog skills on is SWISH (https://swish.swi-prolog.org/).
+A good website for practicing your Prolog skills on is SWISH (https://swish.swi-prolog.org/). 
 
 I didn't include everything in my tutorial. I left out a lot of the vocabulary because I wanted the tutorial to be concise. If you are really interested in Prolog and want to learn more, Learn Prolog Now! is a fantastic site for that. It's even the site I used when I first started learning Prolog, and I also used it as reference while I was writing the tutorial. Prolog code can be much more complicated than what I included, but it would just be a recombination of the things I wrote in the tutorial.pl file or the extraExamples.pl file. I encourage you to practice by finishing up the knowledge base I started, or make a new one with whatever facts and rules you want. Prolog is a great example of logic based artificial intelligence and can be great for deducing answers from large knowledge bases.
 
