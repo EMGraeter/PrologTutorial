@@ -3,7 +3,7 @@ A tutorial explaining the AI programming language Prolog
 
 Prolog is a fun and easy programming language to learn. It serves a very important role in artificial inteligence. It is a programming language made for artificial inteligence rather than an AI algorithm made for programming languages. Prolog answers questions based on the knowledge given unlike most other programming languages which perform actions based on instructions given. You might not be able to use Prolog to solve your math homework for you, but the language is great for deducing relations between objects (Geeks for Geeks).
 
-The most basic thing to know about Prolog is that the main code is the knowledge base and it can be used with queries. the knowledge base is made of two parts, facts and rules. While the knowledge base can just be made of facts, I find it isn't as fun to query without rules. Just like most code the best and, some would argue, only way to learn Prolog is by example, so the actual tutorial is in the tutorial.pl file in the comments.
+The most basic thing to know about Prolog is that the main code is the knowledge base and it can be used with queries. The knowledge base is made of two parts, facts and rules. While the knowledge base can just be made of facts, I find it isn't as fun to query without rules. Just like most code the best and, some would argue, only way to learn Prolog is by example, so the actual tutorial is in the tutorial.pl file in the comments.
 
 A good website for practicing your Prolog skills on is SWISH (https://swish.swi-prolog.org/). 
 
