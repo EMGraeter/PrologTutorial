@@ -13,6 +13,12 @@ battle.
 
 Basically these statements just mean that Tony Stark and Steve Rogers are memebers of the Avengers, Nick Fury and Phil Coulson are agents of SHIELD and that there's a battle happening. Often with Prolog there will be two terminals, one for stating the knowledge base and one for asking queries. A good website for practicing your Prolog skills on is SWISH (https://swish.swi-prolog.org/).
 
+An example of some queries would be:
+
+?- avengers(tonyStark).
+?- shawarma.
+
+The first query would return true and the second query would return false. 
 
 Geeks for Geeks By: Prasad_Kshirsagar, Improved By: ManasChhabra2 - https://www.geeksforgeeks.org/prolog-an-introduction/
 Learn Prolog Now! By: Patrick Blackburn, Johan Bos, and Kristina Striegnitz - http://www.learnprolognow.org/lpnpage.php?pagetype=html&pageid=lpn-htmlli1
